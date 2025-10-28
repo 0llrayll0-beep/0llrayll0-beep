@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Prazer me chamo Raul</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fjudesterro%2Fgifs-gatos%2F&psig=AOvVaw2SYncNFdGA_2UmjC3oUZcv&ust=1761778170183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJib76L9x5ADFQAAAAAdAAAAABAE](https://pin.it/3kEhZL05d)](https://i.postimg.cc/3NT8jPPb/gato.gif)"  />
+<img align="right" height="150" src="[gato.gif](https://postimg.cc/sQTCs0fp)"  />
 
 ###
 
