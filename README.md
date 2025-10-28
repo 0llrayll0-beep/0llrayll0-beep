@@ -63,7 +63,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/0llrayll0-beep/0llrayll0-beep/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/0llrayll0-beep/FS_app/blob/output/github-contribution-grid-snake.svg)
 
 ###
