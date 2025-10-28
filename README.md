@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fjudesterro%2Fgifs-gatos%2F&psig=AOvVaw2SYncNFdGA_2UmjC3oUZcv&ust=1761778170183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJib76L9x5ADFQAAAAAdAAAAABAE"  />
 
 ###
 
